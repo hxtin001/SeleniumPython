@@ -1,0 +1,18 @@
+{
+  "CONFIG": {
+      "WEB_URL": "https://console.cloud.google.com/projectselector/home/dashboard?cloudshell=true&supportedpurview=project&project&folder&organizationId",
+      "DRIVER_PATH": "/home/hxtin001/Documents/Project/software/chromedriver"
+  },
+  "CASE": [
+    {
+      "USERNAME": "boydatjnh93@gmail.com",
+      "PASSWORD": "abXY4321%$%$",
+      "COMMAND": "pwd"
+    },
+    {
+      "USERNAME": "Tapati2125412Tapati",
+      "PASSWORD": "Tapati2125412Tapativ",
+      "COMMAND": "pwd"
+    }
+  ]
+}
