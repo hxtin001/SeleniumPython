@@ -5,13 +5,13 @@
   },
   "CASE": [
     {
-      "USERNAME": "boydatjnh93@gmail.com",
-      "PASSWORD": "abXY4321%$%$",
+      "USERNAME": "email_here",
+      "PASSWORD": "",
       "COMMAND": "pwd"
     },
     {
       "USERNAME": "Tapati2125412Tapati",
-      "PASSWORD": "Tapati2125412Tapativ",
+      "PASSWORD": "v",
       "COMMAND": "pwd"
     }
   ]
